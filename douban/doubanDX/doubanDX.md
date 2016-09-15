@@ -1,4 +1,4 @@
-### 豆瓣系列--豆瓣东西
+### 豆瓣东西
 
 ![](../images/doubanDX/logo.png)
 
