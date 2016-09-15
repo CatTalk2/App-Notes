@@ -5,5 +5,5 @@
 
 > 豆瓣系列 
 
-- [豆瓣东西](https://github.com/msandroid/App-Notes/blob/master/douban/doubanDX.md)   2016 09 15
+- [豆瓣东西](https://github.com/msandroid/App-Notes/blob/master/douban/doubanDX.md)   
 
