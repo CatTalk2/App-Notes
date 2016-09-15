@@ -1,9 +1,11 @@
-package msandroid.zy.com.doubandx;
+package msandroid.zy.com.doubandx.app;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends Activity {
+import msandroid.zy.com.doubandx.R;
+
+public class HomeActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
